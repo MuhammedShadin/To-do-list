@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    .full_body{
+        height: 100%;
+        width: 100%;
+    }
+    .main_body{
+        margin-top: 156px;
+        text-align: center;
+    }
+    .two_text{
+        border-radius: 5px;
+        font-size: 10pt;
+        height: 20px;
+        width : 440px;
+    }
+    .one{
+        padding-bottom: 19px;
+    }
+    .three{
+        padding-top: 57px;
+    }
+    #add{
+        border-radius: 5px;
+    }
+    
