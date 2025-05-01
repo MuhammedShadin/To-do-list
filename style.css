@@ -21,8 +21,18 @@
     }
     .three{
         padding-top: 57px;
+        border-style: solid;
+        height: auto;
+        width: 40%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
     }
     #add{
         border-radius: 5px;
     }
-    
+    .css-tasks{
+        font-size: 20px;
+        padding: 10px;
+
+    }    
